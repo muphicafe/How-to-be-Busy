@@ -1,0 +1,25 @@
+*{box-sizing:border-box}
+body{margin:0;font-family:system-ui,Arial,sans-serif;background:#f4f7ff;color:#1b2333}
+main{max-width:480px;margin:0 auto;padding:20px}
+h1{margin:8px 0 0;font-size:28px}
+h2{font-size:16px;margin:20px 0 8px}
+.sub{margin:4px 0 0;color:#55607a}
+.chips{display:flex;flex-wrap:wrap;gap:8px}
+button{font:inherit;border:2px solid #cfd8ee;background:#fff;color:inherit;padding:10px 14px;border-radius:12px;cursor:pointer}
+button.on{background:#2f6fed;border-color:#2f6fed;color:#fff}
+.big{width:100%;margin-top:24px;padding:16px;font-size:20px;background:#2f6fed;border-color:#2f6fed;color:#fff;font-weight:bold}
+.card{margin-top:20px;background:#fff;border-radius:16px;padding:20px;text-align:center;box-shadow:0 4px 14px rgba(0,0,0,.08)}
+.icon{font-size:56px}
+.card h3{font-size:22px;margin:8px 0}
+.card p{margin:0 0 16px;color:#55607a}
+.row{display:flex;gap:10px;justify-content:center}
+.ok{background:#1f9d55;border-color:#1f9d55;color:#fff}
+.msg{text-align:center;color:#55607a;min-height:24px}
+footer{display:flex;justify-content:space-between;margin-top:20px;padding-top:12px;border-top:1px solid #dde4f5}
+@media (prefers-color-scheme:dark){
+ body{background:#12161f;color:#eef1f8}
+ button{background:#1c2230;border-color:#2e3750}
+ .card{background:#1c2230}
+ .sub,.card p,.msg{color:#a3adc7}
+ footer{border-color:#2e3750}
+}

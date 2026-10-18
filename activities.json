@@ -1,0 +1,402 @@
+[
+  {
+    "title": "Walk for 15 minutes",
+    "duration": 15,
+    "mood": [
+      "energetic",
+      "tired"
+    ],
+    "place": "outside",
+    "needs": "nothing",
+    "icon": "🚶",
+    "cost": "free"
+  },
+  {
+    "title": "Stretch your whole body",
+    "duration": 10,
+    "mood": [
+      "tired",
+      "energetic"
+    ],
+    "place": "home",
+    "needs": "nothing",
+    "icon": "🤸",
+    "cost": "free"
+  },
+  {
+    "title": "Do 20 push-ups and squats",
+    "duration": 10,
+    "mood": [
+      "energetic"
+    ],
+    "place": "home",
+    "needs": "nothing",
+    "icon": "💪",
+    "cost": "free"
+  },
+  {
+    "title": "Deep breathing for 5 minutes",
+    "duration": 5,
+    "mood": [
+      "tired"
+    ],
+    "place": "anywhere",
+    "needs": "nothing",
+    "icon": "🧘",
+    "cost": "free"
+  },
+  {
+    "title": "Dance to 3 songs",
+    "duration": 15,
+    "mood": [
+      "energetic"
+    ],
+    "place": "home",
+    "needs": "phone",
+    "icon": "💃",
+    "cost": "free"
+  },
+  {
+    "title": "Climb stairs 10 times",
+    "duration": 10,
+    "mood": [
+      "energetic"
+    ],
+    "place": "home",
+    "needs": "nothing",
+    "icon": "🪜",
+    "cost": "free"
+  },
+  {
+    "title": "Read 10 pages of a book",
+    "duration": 30,
+    "mood": [
+      "tired",
+      "creative"
+    ],
+    "place": "anywhere",
+    "needs": "a book",
+    "icon": "📖",
+    "cost": "free"
+  },
+  {
+    "title": "Learn 5 new English words",
+    "duration": 15,
+    "mood": [
+      "any"
+    ],
+    "place": "anywhere",
+    "needs": "phone or paper",
+    "icon": "🔤",
+    "cost": "free"
+  },
+  {
+    "title": "Watch one short learning video",
+    "duration": 15,
+    "mood": [
+      "tired"
+    ],
+    "place": "anywhere",
+    "needs": "phone",
+    "icon": "🎓",
+    "cost": "free"
+  },
+  {
+    "title": "Practice typing for 15 minutes",
+    "duration": 15,
+    "mood": [
+      "energetic"
+    ],
+    "place": "home",
+    "needs": "computer",
+    "icon": "⌨️",
+    "cost": "free"
+  },
+  {
+    "title": "Learn one new skill online",
+    "duration": 60,
+    "mood": [
+      "energetic",
+      "creative"
+    ],
+    "place": "home",
+    "needs": "phone",
+    "icon": "💡",
+    "cost": "free"
+  },
+  {
+    "title": "Solve 5 math puzzles",
+    "duration": 20,
+    "mood": [
+      "energetic"
+    ],
+    "place": "anywhere",
+    "needs": "paper",
+    "icon": "🧩",
+    "cost": "free"
+  },
+  {
+    "title": "Write 3 things you learned today",
+    "duration": 10,
+    "mood": [
+      "tired",
+      "creative"
+    ],
+    "place": "anywhere",
+    "needs": "pen and paper",
+    "icon": "📝",
+    "cost": "free"
+  },
+  {
+    "title": "Draw something near you",
+    "duration": 20,
+    "mood": [
+      "creative",
+      "tired"
+    ],
+    "place": "anywhere",
+    "needs": "pen and paper",
+    "icon": "🎨",
+    "cost": "free"
+  },
+  {
+    "title": "Write a short story of 5 lines",
+    "duration": 15,
+    "mood": [
+      "creative"
+    ],
+    "place": "anywhere",
+    "needs": "pen and paper",
+    "icon": "✍️",
+    "cost": "free"
+  },
+  {
+    "title": "Make a plan for tomorrow",
+    "duration": 10,
+    "mood": [
+      "tired",
+      "energetic"
+    ],
+    "place": "anywhere",
+    "needs": "pen and paper",
+    "icon": "📅",
+    "cost": "free"
+  },
+  {
+    "title": "Sing or hum your favorite song",
+    "duration": 10,
+    "mood": [
+      "creative",
+      "energetic"
+    ],
+    "place": "anywhere",
+    "needs": "nothing",
+    "icon": "🎤",
+    "cost": "free"
+  },
+  {
+    "title": "Take 5 photos of nice things",
+    "duration": 20,
+    "mood": [
+      "creative"
+    ],
+    "place": "outside",
+    "needs": "phone",
+    "icon": "📷",
+    "cost": "free"
+  },
+  {
+    "title": "Start a small project idea list",
+    "duration": 20,
+    "mood": [
+      "creative"
+    ],
+    "place": "anywhere",
+    "needs": "pen and paper",
+    "icon": "💭",
+    "cost": "free"
+  },
+  {
+    "title": "Make a simple meal",
+    "duration": 45,
+    "mood": [
+      "creative",
+      "energetic"
+    ],
+    "place": "home",
+    "needs": "food",
+    "icon": "🍳",
+    "cost": "free"
+  },
+  {
+    "title": "Call a friend or family member",
+    "duration": 20,
+    "mood": [
+      "social"
+    ],
+    "place": "anywhere",
+    "needs": "phone",
+    "icon": "📞",
+    "cost": "free"
+  },
+  {
+    "title": "Send a kind message to 3 people",
+    "duration": 10,
+    "mood": [
+      "social",
+      "tired"
+    ],
+    "place": "anywhere",
+    "needs": "phone",
+    "icon": "💌",
+    "cost": "free"
+  },
+  {
+    "title": "Help someone with a small task",
+    "duration": 30,
+    "mood": [
+      "social",
+      "energetic"
+    ],
+    "place": "anywhere",
+    "needs": "nothing",
+    "icon": "🤝",
+    "cost": "free"
+  },
+  {
+    "title": "Play a board game with someone",
+    "duration": 60,
+    "mood": [
+      "social"
+    ],
+    "place": "home",
+    "needs": "a game",
+    "icon": "🎲",
+    "cost": "free"
+  },
+  {
+    "title": "Say thank you to someone",
+    "duration": 5,
+    "mood": [
+      "social"
+    ],
+    "place": "anywhere",
+    "needs": "nothing",
+    "icon": "🙏",
+    "cost": "free"
+  },
+  {
+    "title": "Clean one small area of your room",
+    "duration": 15,
+    "mood": [
+      "energetic"
+    ],
+    "place": "home",
+    "needs": "nothing",
+    "icon": "🧹",
+    "cost": "free"
+  },
+  {
+    "title": "Wash clothes or fold clothes",
+    "duration": 30,
+    "mood": [
+      "tired",
+      "energetic"
+    ],
+    "place": "home",
+    "needs": "nothing",
+    "icon": "👕",
+    "cost": "free"
+  },
+  {
+    "title": "Remove 10 things you do not need",
+    "duration": 20,
+    "mood": [
+      "energetic"
+    ],
+    "place": "home",
+    "needs": "nothing",
+    "icon": "📦",
+    "cost": "free"
+  },
+  {
+    "title": "Water your plants",
+    "duration": 5,
+    "mood": [
+      "tired"
+    ],
+    "place": "home",
+    "needs": "water",
+    "icon": "🌱",
+    "cost": "free"
+  },
+  {
+    "title": "Listen to calm music with eyes closed",
+    "duration": 10,
+    "mood": [
+      "tired"
+    ],
+    "place": "anywhere",
+    "needs": "phone",
+    "icon": "🎧",
+    "cost": "free"
+  },
+  {
+    "title": "Sit in the sun and relax",
+    "duration": 15,
+    "mood": [
+      "tired"
+    ],
+    "place": "outside",
+    "needs": "nothing",
+    "icon": "☀️",
+    "cost": "free"
+  },
+  {
+    "title": "Write 3 things you are thankful for",
+    "duration": 5,
+    "mood": [
+      "tired"
+    ],
+    "place": "anywhere",
+    "needs": "pen and paper",
+    "icon": "😊",
+    "cost": "free"
+  },
+  {
+    "title": "Take a long walk and think",
+    "duration": 60,
+    "mood": [
+      "tired",
+      "energetic"
+    ],
+    "place": "outside",
+    "needs": "nothing",
+    "icon": "🌳",
+    "cost": "free"
+  },
+  {
+    "title": "Visit a nearby place you never saw",
+    "duration": 120,
+    "mood": [
+      "energetic",
+      "social"
+    ],
+    "place": "outside",
+    "needs": "some money",
+    "icon": "🗺️",
+    "cost": "free"
+  },
+  {
+    "title": "Volunteer or help in your area",
+    "duration": 120,
+    "mood": [
+      "social",
+      "energetic"
+    ],
+    "place": "outside",
+    "needs": "nothing",
+    "icon": "❤️",
+    "cost": "free"
+  }
+]

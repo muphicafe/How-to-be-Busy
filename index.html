@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>How To Be Busy</title>
+<meta name="theme-color" content="#2f6fed">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icon.svg">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<main>
+  <h1>How To Be Busy</h1>
+  <p class="sub">Free time? Do something good with it.</p>
+
+  <section>
+    <h2>How much time do you have?</h2>
+    <div class="chips" id="time">
+      <button data-v="15">15 min</button>
+      <button data-v="30" class="on">30 min</button>
+      <button data-v="60">1 hour</button>
+      <button data-v="120">2 hours</button>
+    </div>
+  </section>
+
+  <section>
+    <h2>How do you feel?</h2>
+    <div class="chips" id="mood">
+      <button data-v="any" class="on">Any</button>
+      <button data-v="tired">😴 Tired</button>
+      <button data-v="energetic">⚡ Energetic</button>
+      <button data-v="creative">🎨 Creative</button>
+      <button data-v="social">💬 Social</button>
+    </div>
+  </section>
+
+  <button id="go" class="big">Surprise me</button>
+
+  <div id="card" class="card" hidden>
+    <div id="icon" class="icon"></div>
+    <h3 id="title"></h3>
+    <p id="meta"></p>
+    <div class="row">
+      <button id="done" class="ok">✔ Done</button>
+      <button id="skip">Another</button>
+    </div>
+  </div>
+
+  <p id="msg" class="msg"></p>
+
+  <footer>
+    <span>🔥 Streak: <b id="streak">0</b> days</span>
+    <span>✅ Done: <b id="total">0</b></span>
+  </footer>
+</main>
+<script src="app.js"></script>
+</body>
+</html>

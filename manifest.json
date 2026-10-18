@@ -1,0 +1,9 @@
+{
+  "name": "How To Be Busy",
+  "short_name": "Be Busy",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f4f7ff",
+  "theme_color": "#2f6fed",
+  "icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"}]
+}
